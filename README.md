@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Yumin 👋
 
-<!--
-**yumincho/yumincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Double majoring in Computer Science and Industrial Design at KAIST.
+<br/>
+⚡️ Currently working at [SPARCS](https://github.com/sparcs-kaist) as a project manger, Front-End developer, and UX/UI designer.
+<br/>
+🔍 Also at [KIXLAB](https://github.com/kixlab), exploring the field of Human-Computer Interaction.
+<br/>
+  
+### ⚒️ Skills
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,emotion,react,nextjs,express,nodejs,mysql,prisma,docker,git,figma" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stats
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=yumincho&theme=graywhite&show_icons=true&hide=issues)](https://github.com/yumincho/github-readme-stats)
