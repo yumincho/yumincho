@@ -1,17 +1,21 @@
-## Hi, I'm Yumin 👋
-
-🎓 Double majoring in Computer Science and Industrial Design at KAIST.
-<br/>
-⚡️ Currently working at [SPARCS](https://github.com/sparcs-kaist) as a project manger, Front-End developer, and UX/UI designer.
-<br/>
-🔍 Also at [KIXLAB](https://github.com/kixlab), exploring the field of Human-Computer Interaction.
-<br/>
-  
 ### ⚒️ Skills
 
+<h4>Advanced</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,emotion,react,nextjs,express,nodejs,mysql,prisma,docker,git,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,styledcomponents,emotion,git,figma" />
+  </a>
+</p>
+<h4>Intermediate</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,mysql,prisma,docker" />
+  </a>
+</p>
+<h4>Beginner</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,c,python" />
   </a>
 </p>
 
